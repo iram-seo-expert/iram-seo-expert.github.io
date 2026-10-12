@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iram-seo-services.netlify.app/sitemap.xml
+Sitemap: https://iram-seo-expert.github.io/sitemap.xml
