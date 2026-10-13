@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iram-seo-expert.github.io/sitemap.xml
